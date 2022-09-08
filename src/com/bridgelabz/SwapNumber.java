@@ -26,5 +26,4 @@ public class SwapNumber {
 		
 		System.out.println("After Swap: " + firstNum + " and " + secondNum);
 	}
-
 }
