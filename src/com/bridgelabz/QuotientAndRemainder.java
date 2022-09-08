@@ -26,5 +26,4 @@ public class QuotientAndRemainder {
 		    System.out.println("Remainder = " + remainder);
 		  
 	}
-
 }
