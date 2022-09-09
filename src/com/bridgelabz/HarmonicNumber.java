@@ -23,9 +23,7 @@ public class HarmonicNumber {
 		
 		for(int i = num; i > 0; i--) {
 			result  = result + (1.0/i);
-			System.out.println(" " + result + ", ");
-			
+			System.out.println(" " + result + ", ");	
 		}
 	}
-
 }
